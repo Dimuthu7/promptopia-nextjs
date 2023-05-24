@@ -1,4 +1,24 @@
+# Promptopia #
+
+## Features ##
+  * Authentication with next-auth
+  * SignIn from google account
+  * View user profile
+  * Create new prompt
+  * Only the created user can edit and delete prompt
+  * Search by prompt
+  * Search by tag
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+![image](https://github.com/Dimuthu7/promptopia-nextjs/assets/41988837/78092a0a-49ca-43d4-aa1e-3f96d0be80f9)
+
+![image](https://github.com/Dimuthu7/promptopia-nextjs/assets/41988837/cd783d18-9292-4722-a267-8e2650f7c002)
+
+![image](https://github.com/Dimuthu7/promptopia-nextjs/assets/41988837/f2efd0d6-2c08-470c-b57c-6baf1926b21a)
+
+![image](https://github.com/Dimuthu7/promptopia-nextjs/assets/41988837/0a023158-c12b-4fde-89e1-2a3d428422b2)
+
 
 ## Getting Started
 
